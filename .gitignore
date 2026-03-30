@@ -1,0 +1,63 @@
+# Build Results
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.msi
+*.msix
+*.msixbundle
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.DotSettings.user
+*.user
+*.userosscache
+*.sln.docstates
+*.aps
+
+# User-specific files
+*.rsuser
+*.suo
+*.aps
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# IDE files
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Debug Files
+*.stackdump
+core.*
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# User Backup
+BackupDebug/
+BackupRelease/
+
+# Build artifacts
+publish/
+PublishProfiles/
