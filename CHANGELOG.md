@@ -17,6 +17,8 @@ Following [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and [Semantic
 
 ## [1.0.0] - 2024-01-15
 
+> 📦 **GitHub Release**: Published 2026-09-05 — [v1.0.0](https://github.com/ThanhNguyenVN93/Driver-Backup/releases/tag/v1.0.0)
+
 ### ✨ Thêm mới
 - ✅ **Tính năng sao lưu driver** toàn bộ hệ thống qua WMI
 - ✅ **Tính năng khôi phục driver** từ backup đã lưu
