@@ -1,5 +1,8 @@
 # frmdriverbackup
 
+[![Release](https://img.shields.io/github/v/release/ThanhNguyenVN93/Driver-Backup)](https://github.com/ThanhNguyenVN93/Driver-Backup/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Windows driver backup and restore application with simple GUI, auto-download DISM++ to clean your system.
 
 ## 🎯 Features
@@ -24,15 +27,14 @@ Windows driver backup and restore application with simple GUI, auto-download DIS
 ## 🚀 Cài đặt
 
 ### Phương pháp 1: Download từ Release
-1. Truy cập [Releases](../../releases)
-2. Tải phiên bản mới nhất
-3. Giải nén file
-4. Chạy `frmdriverbackup.exe` với quyền Administrator
+1. Truy cập [Releases](https://github.com/ThanhNguyenVN93/Driver-Backup/releases)
+2. Tải phiên bản mới nhất (`Driver Backup By Dism++.exe`)
+3. Chạy file với quyền Administrator
 
 ### Phương pháp 2: Clone từ GitHub
 ```bash
-git clone https://github.com/username/frmdriverbackup.git
-cd frmdriverbackup
+git clone https://github.com/ThanhNguyenVN93/Driver-Backup.git
+cd Driver-Backup
 ```
 
 ## 📖 Hướng dẫn Sử dụng
@@ -120,12 +122,12 @@ frmdriverbackup/
 ### Các bước:
 ```bash
 # Clone repository
-git clone https://github.com/username/frmdriverbackup.git
+git clone https://github.com/ThanhNguyenVN93/Driver-Backup.git
 
-# Mở project trong Visual Studio
+# Mở project trong Visual Studio (frmdriverbackup.slnx)
 # Chọn Build > Build Solution
 # Hoặc dùng terminal:
-msbuild frmdriverbackup.sln
+msbuild frmdriverbackup.csproj /p:Configuration=Release
 ```
 
 ## 🤝 Đóng góp
@@ -141,7 +143,7 @@ Mọi đóng góp đều được chào đón! Hãy:
 ## 📢 Báo cáo Lỗi / Yêu cầu Tính năng
 
 Nếu bạn gặp lỗi hoặc có đề xuất:
-- Vui lòng tạo [Issue](../../issues) mới
+- Vui lòng tạo [Issue](https://github.com/ThanhNguyenVN93/Driver-Backup/issues) mới
 - Cung cấp thông tin chi tiết về lỗi
 - Đính kèm ảnh chụp màn hình nếu cần
 
@@ -159,12 +161,11 @@ Dự án này được cấp phép theo **MIT License** - xem file [LICENSE](LIC
 
 ## 📧 Liên hệ
 
-- Tác giả: [Your Name]
-- Email: [your-email@example.com]
-- GitHub Issues: [Link to Issues](../../issues)
+- Tác giả: [Nguyen Thanh](https://github.com/ThanhNguyenVN93)
+- GitHub Issues: [Link to Issues](https://github.com/ThanhNguyenVN93/Driver-Backup/issues)
 
 ---
 
 **Made with ❤️ for Windows drivers management**
 
-Last updated: 2024
+Last updated: 2026-09-05 (v1.0.0)
